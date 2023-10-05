@@ -1,0 +1,37 @@
+h1{font-family: 'Kanit', sans-serif;
+  color:#010326;
+}
+
+h4{font-family: 'Prompt', sans-serif;
+   color:#010b40;
+}
+
+h5{font-family: 'Prompt', sans-serif;
+   color:#010326;
+}
+h6{font-family: 'Prompt', sans-serif;
+   color:#010326;
+}
+
+p{ font-family:'Sarabun', sans-serif;
+   color:#010326;
+}
+
+.font-for-jdp{font-family: 'Kanit', sans-serif;
+    color:#010326;
+}
+
+.my-bg{  background-color:#c7cfde ;
+}
+.my-bg-1 {  background-color:#f0f0f0 ;
+}
+.my-bg-2  {  background-color:#c7cfde ;
+}
+
+
+
+.my-border{  border-style: solid;
+  border-color: #9cb3e5;
+  border-width: 15px;
+}
+

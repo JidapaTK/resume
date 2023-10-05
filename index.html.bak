@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+
+      rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN"
+
+      crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:wght@600&amp;family=Prompt&amp;family=Sarabun:wght@300&amp;display=swap"
+
+      rel="stylesheet">
+    <link type="text/css" rel="stylesheet" href="css/style.css">
+  </head>
+  <body class="my-bg">
+    <div class="container-fluid ">
+      <div class="row py-3  ">
+        <nav class=" my-bg">
+          <div class="font-for-jdp"><a class="navbar-brand"> <img src="images/logo2.jpg"
+
+                alt="Logo" class="d-inline-block align-text-top" height="24" width="30"></a><a
+
+              href="#jdp" style="color: #010326;"> JIDAPA &nbsp;&nbsp; </a> <a
+
+              href="#%E0%B8%9B%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%95%E0%B8%B4%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A8%E0%B8%B6%E0%B8%81%E0%B8%A9%E0%B8%B2"
+
+              style="color: #010326;"> EDUCATION&nbsp;&nbsp;&nbsp; </a> <a href="#%E0%B8%97%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%B0"
+
+              style="color: #010326;"> SKILL</a></div>
+        </nav>
+      </div>
+      <div class="row my-bg-1 py-5  ">
+        <div class="col-md-6 ">
+          <div class="mx-auto text-center"><br>
+            <br>
+            <img src="images/profile.JPG" alt="profile" class="img-fluid rounded-circle my-border "
+
+              height="300" width="300"><br>
+            <br>
+            <br>
+          </div>
+        </div>
+        <div class="col-md-6 ">
+          <h1 class="mx-3 "><a id="jdp"><br>
+              <br>
+              จิดาภา ธนศุภกร</a></h1>
+          <h5 class="mx-3">15 เมษายน 2546 </h5>
+          <h5 class="mx-3">Email : <a href="mailto:ja.tnspk@gmail.com" style="color: #010326;">ja.tnspk@gmail.com
+              </a></h5>
+          <h5 class="mx-3">เบอร์โทร : 092-932-4336</h5>
+          <h5 class="mx-3"> ที่อยู่ : 251 ม.4 ต.ดอนคลัง อ.ดำเนินสะดวก จ.ราชบุรี
+            70130 </h5>
+        </div>
+      </div>
+      <div class="row py-10 my-bg-2 "><br>
+        <br>
+        <br>
+        <h5 class="py-5 text-center"> &nbsp; </h5>
+        <h6 class="py-5 text-center">" ต้องการนำความรู้ที่ได้จากการศึกษา 4
+          ปีในสาขาวิชาเอกสารสนเทศศาสตร์และบรรณารักษศาสตร์ มหาวิทยาลัยศิลปากร <br>
+          มาสร้างประโยชน์และคุณค่าให้กับองค์กร&nbsp;
+          เพื่อเปิดโอกาสให้ตัวเองได้ทำงานเรียนรู้เพิ่มเติม
+          และสั่งสมประสบการณ์เพื่อเติบโตไปพร้อมกับองค์กร " </h6>
+        <p><br>
+        </p>
+        <p><br>
+        </p>
+      </div>
+      <div class="row  my-bg-1 ">
+        <div class="col-md-6 p-0 "><a></a><a></a><br>
+          <h4 class="mx-5"><a id="ประวัติการศึกษา"> <br>
+              <br>
+              ประวัติการศึกษา</a></h4>
+          <h6 class="mx-5">2564-2566 </h6>
+          <h6> </h6>
+          <h6 class="mx-5">มหาวิทยาลัยศิลปากร </h6>
+          <p class="mx-5"> ปริญญาตรี คณะอักษรศาสตร์
+            สาขาวิชาเอกสารสนเทศศาสตร์และบรรณารักษศาสตร์ วิชาโทเศรษฐศาสตร์<br>
+            เกรดเฉลี่ย 3.55 <br>
+            <br>
+            <br>
+          </p>
+        </div>
+        <div class="col-md-6 p-0 ">
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+
+                data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators"
+
+                data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button"
+
+                data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+
+                aria-label="Slide 3"></button> </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active"> <img src="images/su_1.jpg" class="d-block w-100"
+
+                  alt="su-1"> </div>
+              <div class="carousel-item"> <img src="images/su-3.jpg" class="d-block w-100"
+
+                  alt="su-3"> </div>
+              <div class="carousel-item"> <img src="images/su-4.jpg" class="d-block w-100"
+
+                  alt="su-4"> </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+
+              data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span> </button> <button
+
+              class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+
+              data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span> </button> </div>
+        </div>
+        <div class="row  pt-5 my-bg-2">
+          <h4 class="ms-5 my-3 "><a id="ทักษะ"> ทักษะ </a></h4>
+          <div class="col-md-4 ">
+            <h6 class="ms-5">ทักษะด้านคอมพิวเตอร์ </h6>
+            <p class="ms-5">- Microsoft Office <br>
+              ( Word, Powerpoint, Excel )</p>
+            <p class="ms-5">- Adobe Photoshop</p>
+            <p class="ms-5">- เขียนโปรแกรมเบื้องต้น <br>
+              ( HTML, CSS, JavaScript )</p>
+          </div>
+          <div class="col-md-4 ">
+            <h6 class="ms-5">ทักษะด้านภาษา</h6>
+            <p class="ms-5">- ภาษาไทย</p>
+            <p class="ms-5">- ภาษาอังกฤษ (ระดับสื่อสาร)</p>
+            <p class="ms-5">- ภาษาเกาหลี (ระดับสื่อสาร)</p>
+          </div>
+          <div class="col-md-4 ">
+            <h6 class="mx-5">ทักษะด้านการทำงาน</h6>
+            <p class="mx-5"> -
+              มีทักษะด้านการปรับตัวและสามารถเรียนรู้สิ่งใหม่ได้อย่างรวดเร็ว <br>
+              - สามารถแสดงออกทางอารมณ์
+              สื่อสารความรู้สึกของตนเองที่มีต่อผู้อื่นได้อย่างเหมาะสม
+              และควบคุมอารมณ์ของตนเองได้<br>
+              <br>
+              <br>
+              <br>
+              <br>
+            </p>
+          </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+
+integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+
+crossorigin="anonymous"></script> </div>
+    </div>
+  </body>
+</html>
